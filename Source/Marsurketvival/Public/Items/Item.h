@@ -38,8 +38,8 @@ private:
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	USceneComponent* RootScene;
 
-	UPROPERTY(VisibleAnywhere)
-	UStaticMeshComponent* ItemMesh;
+	//UPROPERTY(VisibleAnywhere)
+	//UStaticMeshComponent* ItemMesh;
 
 
 	UPROPERTY(VisibleAnywhere)
